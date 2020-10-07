@@ -57,4 +57,21 @@ class Admin extends CI_Controller {
 
 
 
+
+
+		public function test()
+	{
+		$data['title'] = 'Data Tempat Kontrakan';
+
+		$this->load->view('temp_superadmin/header',$data);
+		$this->load->view('temp_superadmin/sidebar');
+		$this->load->view('superadmin/data_map_kontrakan');
+		$this->load->view('temp_superadmin/footer');
+	}
+
+
+
+
+
+
 }
