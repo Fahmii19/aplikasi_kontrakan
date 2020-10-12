@@ -12,7 +12,7 @@
     <link href="<?php echo base_url('./assets/assets/extra-libs/prism/prism.css') ?>" rel="stylesheet">
     <link href="<?php echo base_url('./assets/dist/css/pages/form-page.css') ?>" rel="stylesheet">
 
-
+    <link href="<?php echo base_url('./assets/dist/css/pages/data-table.css') ?>" rel="stylesheet">
 
     <link href="<?php echo base_url('./assets/assets/libs/chartist/dist/chartist.min.css') ?>" rel="stylesheet">
 

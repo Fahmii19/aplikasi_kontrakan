@@ -21,10 +21,20 @@
                             <a href="javascript: void(0);" class="collapsible-header has-arrow"><i class="material-icons">move_to_inbox</i><span class="hide-menu">DATA</span></a>
                             <div class="collapsible-body">
                                 <ul>
-                                    <li><a href="<?php echo base_url('admin/data_pemilik_kontrakan') ?>"><i class="material-icons">email</i><span class="hide-menu">Data Pemilik Kontrakan</span></a></li>
+                                    <li><a href="<?php echo base_url('PemilikController/data_pemilik_kontrakan') ?>"><i class="material-icons">email</i><span class="hide-menu">Data Pemilik Kontrakan</span></a></li>
 
-                                    <li><a href="<?php echo base_url('admin/data_tempat_kontrakan') ?>"><i class="material-icons">email</i><span class="hide-menu">Data Tempat Kontrakan</span></a></li>
+                                    <li><a href="<?php echo base_url('KontrakanController/data_kontrakan') ?>"><i class="material-icons">email</i><span class="hide-menu">Data Kontrakan</span></a></li>
 
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="javascript: void(0);" class="collapsible-header has-arrow"><i class="material-icons">move_to_inbox</i><span class="hide-menu">TAMBAH DATA</span></a>
+                            <div class="collapsible-body">
+                                <ul>
+                                    <li><a href="<?php echo base_url('PemilikController/input_pemilik') ?>"><i class="material-icons">email</i><span class="hide-menu">Tambah Pemilik Kontrakan</span></a></li>
+
+                                    <li><a href="<?php echo base_url('KontrakanController/input_kontrakan') ?>"><i class="material-icons">email</i><span class="hide-menu">Tambah Kontrakan</span></a></li>
                                 </ul>
                             </div>
                         </li>

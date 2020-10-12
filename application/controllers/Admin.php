@@ -55,10 +55,6 @@ class Admin extends CI_Controller {
 
 	}
 
-
-
-
-
 		public function test()
 	{
 		$data['title'] = 'Data Tempat Kontrakan';
