@@ -24,7 +24,7 @@ F<!-- ============================================================== -->
                 <div class="card">
                     <div class="card-content">
 
-                     <form class="h-form r-separator" method="post" action="<?php echo base_url('PemilikController/add_pemilik')?>">
+                     <form class="h-form r-separator" method="post" action="<?php echo site_url('PemilikController/add_pemilik')?>">
                         <div class="form-body">
                             <div class="card-content">
 

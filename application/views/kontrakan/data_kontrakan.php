@@ -51,6 +51,7 @@
                                     <td><?php echo $row->harga; ?></td>
                                     <td><?php echo $row->unit; ?></td>
                                     <td>
+                                        <a href="<?php echo site_url('MapsController/edit_maps/'.$row->id_kontrakan) ?>"><i style="color: green;" class="small material-icons">edit</i></a>
                                         <a href="<?php echo site_url('KontrakanController/edit_kontrakan/'.$row->id_kontrakan) ?>"><i style="color: orange;" class="small material-icons">edit</i></a>
                                         <a href="<?php echo site_url('KontrakanController/detail_kontrakan/'.$row->id_pemilik) ?>"><i style="color: blue;" class="small material-icons">format_list_bulleted</i></a>
                                         <a href=""><i style="color: red;" class="small material-icons">delete</i></a>

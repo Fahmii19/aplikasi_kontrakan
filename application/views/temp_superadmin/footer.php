@@ -145,7 +145,7 @@
                                 <!-- Message -->
                                 <a href="#" class="user-info" id='chat_user_1' data-user-id='1'>
                                     <span class="user-img">
-                                        <img src="../../assets/images/users/1.jpg" alt="user" class="circle">
+                                        <img src="<?= base_url() ?>././assets/assets/images/users/1.jpg" alt="user" class="circle">
                                         <span class="profile-status online pull-right" data-status="online"></span>
                                     </span>
                                     <span class="mail-contnet">
@@ -157,7 +157,7 @@
                                 <!-- Message -->
                                 <a href="#" class="user-info" id='chat_user_2' data-user-id='2'>
                                     <span class="user-img">
-                                        <img src="../../assets/images/users/2.jpg" alt="user" class="circle">
+                                        <img src="<?= base_url() ?>././assets/assets/images/users/2.jpg" alt="user" class="circle">
                                         <span class="profile-status busy pull-right" data-status="busy"></span>
                                     </span>
                                     <span class="mail-contnet">
@@ -169,7 +169,7 @@
                                 <!-- Message -->
                                 <a href="#" class="user-info" id='chat_user_3' data-user-id='3'>
                                     <span class="user-img">
-                                        <img src="../../assets/images/users/3.jpg" alt="user" class="circle">
+                                        <img src="<?= base_url() ?>././assets/assets/images/users/3.jpg" alt="user" class="circle">
                                         <span class="profile-status away pull-right" data-status="away"></span>
                                     </span>
                                     <span class="mail-contnet">
@@ -181,7 +181,7 @@
                                 <!-- Message -->
                                 <a href="#" class="user-info" id='chat_user_4' data-user-id='4'>
                                     <span class="user-img">
-                                        <img src="../../assets/images/users/4.jpg" alt="user" class="circle">
+                                        <img src="<?= base_url() ?>././assets/assets/images/users/4.jpg" alt="user" class="circle">
                                         <span class="profile-status offline pull-right" data-status="offline"></span>
                                     </span>
                                     <span class="mail-contnet">
@@ -193,7 +193,7 @@
                                 <!-- Message -->
                                 <a href="#" class="user-info" id='chat_user_5' data-user-id='5'>
                                     <span class="user-img">
-                                        <img src="../../assets/images/users/1.jpg" alt="user" class="circle">
+                                        <img src="<?= base_url() ?>././assets/assets/images/users/1.jpg" alt="user" class="circle">
                                         <span class="profile-status online pull-right" data-status="online"></span>
                                     </span>
                                     <span class="mail-contnet">
@@ -205,7 +205,7 @@
                                 <!-- Message -->
                                 <a href="#" class="user-info" id='chat_user_6' data-user-id='6'>
                                     <span class="user-img">
-                                        <img src="../../assets/images/users/2.jpg" alt="user" class="circle">
+                                        <img src="<?= base_url(); ?>././assets/assets/images/users/2.jpg" alt="user" class="circle">
                                         <span class="profile-status busy pull-right" data-status="busy"></span>
                                     </span>
                                     <span class="mail-contnet">
@@ -217,7 +217,7 @@
                                 <!-- Message -->
                                 <a href="#" class="user-info" id='chat_user_7' data-user-id='7'>
                                     <span class="user-img">
-                                        <img src="../../assets/images/users/3.jpg" alt="user" class="circle">
+                                        <img src="<?= base_url(); ?>././assets/assets/images/users/3.jpg" alt="user" class="circle">
                                         <span class="profile-status away pull-right" data-status="away"></span>
                                     </span>
                                     <span class="mail-contnet">
@@ -229,7 +229,7 @@
                                 <!-- Message -->
                                 <a href="#" class="user-info" id='chat_user_8' data-user-id='8'>
                                     <span class="user-img">
-                                        <img src="../../assets/images/users/4.jpg" alt="user" class="circle">
+                                        <img src="<?= base_url() ?>././assets/assets/images/users/4.jpg" alt="user" class="circle">
                                         <span class="profile-status offline pull-right" data-status="offline"></span>
                                     </span>
                                     <span class="mail-contnet">
@@ -241,7 +241,7 @@
                                 <!-- Message -->
                                 <a href="#" class="user-info" id='chat_user_9' data-user-id='9'>
                                     <span class="user-img">
-                                        <img src="../../assets/images/users/1.jpg" alt="user" class="circle">
+                                        <img src="<?= base_url() ?>././assets/assets/images/users/1.jpg" alt="user" class="circle">
                                         <span class="profile-status online pull-right" data-status="online"></span>
                                     </span>
                                     <span class="mail-contnet">
@@ -253,7 +253,7 @@
                                 <!-- Message -->
                                 <a href="#" class="user-info" id='chat_user_10' data-user-id='10'>
                                     <span class="user-img">
-                                        <img src="../../assets/images/users/2.jpg" alt="user" class="circle">
+                                        <img src="<?= base_url() ?>././assets/assets/images/users/2.jpg" alt="user" class="circle">
                                         <span class="profile-status busy pull-right" data-status="busy"></span>
                                     </span>
                                     <span class="mail-contnet">
@@ -265,7 +265,7 @@
                                 <!-- Message -->
                                 <a href="#" class="user-info" id='chat_user_11' data-user-id='11'>
                                     <span class="user-img">
-                                        <img src="../../assets/images/users/3.jpg" alt="user" class="circle">
+                                        <img src="<?= base_url() ?>././assets/assets/images/users/3.jpg" alt="user" class="circle">
                                         <span class="profile-status away pull-right" data-status="away"></span>
                                     </span>
                                     <span class="mail-contnet">
@@ -277,7 +277,7 @@
                                 <!-- Message -->
                                 <a href="#" class="user-info" id='chat_user_12' data-user-id='12'>
                                     <span class="user-img">
-                                        <img src="../../assets/images/users/4.jpg" alt="user" class="circle">
+                                        <img src="<?= base_url() ?>././assets/assets/images/users/4.jpg" alt="user" class="circle">
                                         <span class="profile-status offline pull-right" data-status="offline"></span>
                                     </span>
                                     <span class="mail-contnet">
@@ -310,14 +310,14 @@
                                 </div>
                             </div>
                             <div class="sl-item">
-                                <div class="sl-left"> <img class="circle" alt="user" src="../../assets/images/users/2.jpg"> </div>
+                                <div class="sl-left"> <img class="circle" alt="user" src="<?= base_url() ?>././assets/assets/images/users/2.jpg"> </div>
                                 <div class="sl-right">
                                     <div class="font-medium">Go to the Doctor <span class="sl-date">5 minutes ago</span></div>
                                     <div class="desc">Contrary to popular belief</div>
                                 </div>
                             </div>
                             <div class="sl-item">
-                                <div class="sl-left"> <img class="circle" alt="user" src="../../assets/images/users/1.jpg"> </div>
+                                <div class="sl-left"> <img class="circle" alt="user" src="<?= base_url() ?>././assets/assets/images/users/1.jpg"> </div>
                                 <div class="sl-right">
                                     <div><a href="javascript:void(0)">Stephen</a> <span class="sl-date">5 minutes ago</span></div>
                                     <div class="desc">Approve meeting with tiger</div>
@@ -338,14 +338,14 @@
                                 </div>
                             </div>
                             <div class="sl-item">
-                                <div class="sl-left"> <img class="circle" alt="user" src="../../assets/images/users/4.jpg"> </div>
+                                <div class="sl-left"> <img class="circle" alt="user" src="<?= base_url() ?>././assets/assets/images/users/4.jpg"> </div>
                                 <div class="sl-right">
                                     <div class="font-medium">Go to the Doctor <span class="sl-date">5 minutes ago</span></div>
                                     <div class="desc">Contrary to popular belief</div>
                                 </div>
                             </div>
                             <div class="sl-item">
-                                <div class="sl-left"> <img class="circle" alt="user" src="../../assets/images/users/6.jpg"> </div>
+                                <div class="sl-left"> <img class="circle" alt="user" src="<?= base_url() ?>././assets/assets/images/users/6.jpg"> </div>
                                 <div class="sl-right">
                                     <div><a href="javascript:void(0)">Stephen</a> <span class="sl-date">5 minutes ago</span></div>
                                     <div class="desc">Approve meeting with tiger</div>
@@ -405,6 +405,49 @@
 <script src="<?php echo base_url('./assets/assets/libs/chartist/dist/chartist.min.js') ?>"></script>
 <script src="<?php echo base_url('./assets/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js') ?>"></script>
 <script src="<?php echo base_url('./assets/assets/extra-libs/sparkline/sparkline.js') ?>"></script>
+
+<script src="<?php echo base_url('./assets/leaflet/leaflet.js') ?>"></script>
+
+<script>
+    var map = L.map('mapid').setView([-6.3458129, 106.8362977], 14);
+    var base_url = "<?= base_url(); ?>";
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    var myFeatureGroup = L.featureGroup().addTo(map).on("click", groupClick);
+    var kontrakanMarker;
+
+    $.getJSON(base_url+"MapsController/kontrakan_json", function(data){
+        $.each(data, function(i, field){
+
+            var v_lat = parseFloat(data[i].latitude);
+            var v_long = parseFloat(data[i].longitude);
+
+            var icon_kontrakan = L.icon({
+                        iconUrl: base_url+'assets/assets/images/marker.png',
+                        iconSize: [30, 30]
+            });
+
+            kontrakanMarker = L.marker([v_long, v_lat], {icon:icon_kontrakan})
+                                .addTo(myFeatureGroup)
+                                .bindPopup(data[i].alamat);
+
+            kontrakanMarker.id = data[i].id_kontrakan;
+
+            // kontrakanMarker =  L.marker([v_long, v_lat],{icon:icon_kontrakan}).addTo(map)
+            // .bindPopup(data[i].alamat)
+            // .openPopup();
+        });
+    });
+
+    function groupClick(event) {
+        alert("Clicked on marker " + event.layer.id);
+    }
+
+    
+</script>
+
 </body>
 
 </html>
